@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+.titulo-livros{
+    background: darkmagenta;
+    padding: 50px;
+    text-align: center;
+    margin: 0;
+}
+
+.item{
+    display: inline-block;
+    padding: 110px;
+}
